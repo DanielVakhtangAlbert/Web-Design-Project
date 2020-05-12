@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html> 
+<html lang="en">   
 	<head>
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -25,7 +25,6 @@
 		<!-- end meta elements -->
 		
 		<title>ESCROW PROJECT</title>
-		<head>
 		<link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet"> 
 		<style>
 		body, html {
@@ -73,8 +72,7 @@
 		
 		</style>
 		<link rel="stylesheet" href="style.css">
-		<title>Example page - HTML5</title>
-	</head>
+		
 	</head>
 <body>
 	<header>
@@ -90,11 +88,11 @@
 		</nav>
 	</header>
 	<main>
-		<div class="tab-content">
+		<div class="tab-content"> 
 			<div id="home" class="tab-pane fade in active">
 				<h1>ESCROW Cologne-Bonn</h1>
 				<figure>
-					<img src="Hom.jpg" alt="Software" title="Software" style="width:500px; height:475px; margin-top:0.4em">
+					<img src="hom.jpg" alt="Software" title="Software" style="width:500px; height:475px; margin-top:0.4em">
 					<figcaption>S.E.I Escrow Secuirity, The Guardian of your Software Rights!</figcaption>
 				</figure>
 				<p style="color: black">We have come to rely on software in many aspects of our lives: banking, administration, healthcare…</p>
@@ -115,33 +113,34 @@ The ripcord if the provider crashes! Cloud Computing lives of faith, which end u
 			<div id="news" class="tab-pane fade">
 				<h1>NEWS</h1>
 		<div class="news">
-			<a href="news-3.html"><img src="News1.jpg" alt="The new cybersecurity resilience" title="The new cybersecurity resilience"></a>
+			<a target="_blank" href="https://www.scmagazine.com/home/security-news/features/the-new-cybersecurity-resilience/"><img src="News1.jpg" alt="The new cybersecurity resilience" title="The new cybersecurity resilience"></a>
 			<h2>The new cybersecurity resilience</h2>
-			<p style="color: black" >Is your cybersecurity posture resilient enough to survive a pandemic? You’re about to find out. Teri Robinson reports. <a href="news-3.html">More ...</a></p>
+			<p style="color: black" >Is your cybersecurity posture resilient enough to survive a pandemic? You’re about to find out. Teri Robinson reports. <a target="_blank" href="https://www.scmagazine.com/home/security-news/features/the-new-cybersecurity-resilience/">More ...</a></p>
 			<p style="color: black" ><time datetime="2020-05-01">1 May 2020</time></p>
 			<hr>
-			<a href="news-2.html"><img src="lala.jpg" alt="US growth faster than expected" title="US growth faster than expected"></a>
+			<a target="_blank" href="https://www.scmagazine.com/home/security-news/microsoft-warns-of-ransomware-attacks-with-motley-crew-of-payloads/"><img src="lala.jpg" alt="US growth faster than expected" title="US growth faster than expected"></a>
 			<h2>Microsoft warns of ransomware attacks with ‘motley crew’ of payloads</h2>
-			<p style="color: black" > Ransomware delivering a “motley crew” of payloads is straining security operations especially in health care, Microsoft warned, urging security teams to look for signs of credential theft and lateral movement activities that herald attacks. <a href="news-2.html">More ...</a></p>
+			<p style="color: black" > Ransomware delivering a “motley crew” of payloads is straining security operations especially in health care, Microsoft warned, urging security teams to look for signs of credential theft and lateral movement activities that herald attacks. <a target="_blank" href="https://www.scmagazine.com/home/security-news/microsoft-warns-of-ransomware-attacks-with-motley-crew-of-payloads/">More ...</a></p>
 			<p style="color: black" ><time datetime="2017-04-30">30 April 2020</time></p>
 			<hr>
-			<a href="news-1.html"><img src="news3.jpg" alt="US growth faster than expected" title="US growth faster than expected"></a>
+			<a target="_blank" href="https://www.scmagazine.com/home/security-news/news-archive/coronavirus/survey-covid-19-has-changed-cyber-pros-roles-increased-incident-totals/"><img src="news3.jpg" alt="US growth faster than expected" title="US growth faster than expected"></a>
 			<h2>Survey: COVID-19 has changed cyber pros’ roles, increased incident totals</h2>
-			<p style="color: black" >In a new survey of 256 cybersecurity professionals responsible for securing their companies’ digital assets, 81 percent of respondents said their job function has changed in some capacity during the COVID-19 pandemic. <a href="news-1.html">More ...</a></p>
+			<p style="color: black" >In a new survey of 256 cybersecurity professionals responsible for securing their companies’ digital assets, 81 percent of respondents said their job function has changed in some capacity during the COVID-19 pandemic. <a target="_blank" href="https://www.scmagazine.com/home/security-news/news-archive/coronavirus/survey-covid-19-has-changed-cyber-pros-roles-increased-incident-totals/">More ...</a></p>
 			<p style="color: black" ><time datetime="2020-04-29">29 April 2020</time></p>
 			<hr>
-			<a href="news-3.html"><img src="News5.jpg" alt="The new cybersecurity resilience" title="The new cybersecurity resilience"></a>
+			<a target="_blank" href="https://www.scmagazine.com/home/security-news/supreme-court-takes-on-case-that-could-modernize-redefine-cfaa/"><img src="news5.jpg" alt="The new cybersecurity resilience" title="The new cybersecurity resilience"></a>
 			<h2>Supreme Court takes on case that could modernize, redefine CFAA</h2>
-			<p style="color: black" >The Supreme Court will take up Van Buren vs. United States, a case that could modernize and alter the scope of the Computer Fraud and Abuse Act (CFAA). At issue whether it is federal crime for someone with permission to access information on a computer to do so for an improper purpose. . <a href="news-3.html">More ...</a></p>
+			<p style="color: black" >The Supreme Court will take up Van Buren vs. United States, a case that could modernize and alter the scope of the Computer Fraud and Abuse Act (CFAA). At issue whether it is federal crime for someone with permission to access information on a computer to do so for an improper purpose. . <a target="_blank" href="https://www.scmagazine.com/home/security-news/supreme-court-takes-on-case-that-could-modernize-redefine-cfaa/">More ...</a></p>
 			<p style="color: black" ><time datetime="2020-04-21">21 April 2020</time></p>
 			<hr>
 				</div>
 			</div>
+		
 			<div id="contact" class="tab-pane fade">
 			<h1>Feel Free to contact us anytime</h1>
-				<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2536.9226835879163!2d7.467109715859755!3d50.51700539044778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47be8b8234107b41%3A0xcf5147f11a379557!2sParkstra%C3%9Fe%2017%2C%2056581%20Ehlscheid!5e0!3m2!1sen!2sde!4v1588331329819!5m2!1sen!2sde" width="1023" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe </iframe></p>
+				<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2536.9226835879163!2d7.467109715859755!3d50.51700539044778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47be8b8234107b41%3A0xcf5147f11a379557!2sParkstra%C3%9Fe%2017%2C%2056581%20Ehlscheid!5e0!3m2!1sen!2sde!4v1588331329819!5m2!1sen!2sde" width="1023" height="400" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
 				
-				<form action="" id="contact_form" name="contact_form" method="POST">
+				<form action="class" id="contact_form" name="contact_form" method="POST">
 					<div class="form-group">
 						<label for="fname">First Name *</label>
 						<input class="form-control" type="text" id="fname" name="firstname" placeholder="Your name.." required>
@@ -188,31 +187,29 @@ Cooperation with well known national and international ITC- law firms. Software 
 				
 				<div id="gallery" class="tab-pane fade">
 				<h1>Gallery</h1>
-				<div id="gallery" class="column">
+				
 
 					<figure id="1">
 				<img src="work.jpg" height="300" width="42" alt="Our Team" title="Our Team">
-				<figcaption>Our Team - the most valuable resource of the company<figcaption>
+				<figcaption>Our Team - the most valuable resource of the company</figcaption>
 			</figure>
 			<figure id="2">
 				<img src="office.jpg" height="300" width="42" alt="Our Office" title="Our Office">
-				<figcaption>Our Office - Comfortable and peaceful working environment is the key to satisfication of our employees, that directly affect the quality of our service, which is superb.<figcaption>
+				<figcaption>Our Office - Comfortable and peaceful working environment is the key to satisfication of our employees, that directly affect the quality of our service, which is superb.</figcaption>
 			</figure>
 			<figure id="3">
 				<img src="dda.jpg" height="300" width="42" alt="Headquarter" title="Headquarter">
-				<figcaption>Headquarter - Great and accessible location in the city of Bonn, you are always invited to visit us and to get a personal consultation. <figcaption>
+				<figcaption>Headquarter - Great and accessible location in the city of Bonn, you are always invited to visit us and to get a personal consultation. </figcaption>
 			</figure>
 			<figure id="4">
 				<img src="bonn.jpg" height="300" width="42" alt="Bonn, Germany" title="Bonn, Germany">
-				<figcaption>Bonn - The former capital of the German Federal Republic has become the German capital for development cooperation. Business, academic and cultural organisations work together closely in the United Nations city of Bonn.<figcaption>
+				<figcaption>Bonn - The former capital of the German Federal Republic has become the German capital for development cooperation. Business, academic and cultural organisations work together closely in the United Nations city of Bonn.</figcaption>
 			</figure>
 			
 					
 					
-					
-				</div>
 				
-	</main>
-	
+				</div>
+				</main>
 </body>
 </html>
